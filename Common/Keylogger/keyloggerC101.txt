@@ -1,0 +1,17 @@
+Key Pressed: K
+Key Pressed: H
+Key Pressed: O
+Key Pressed: A
+Key Pressed: [SPACE]
+Key Pressed: D
+Key Pressed: E
+Key Pressed: P
+Key Pressed: [SPACE]
+Key Pressed: T
+Key Pressed: R
+Key Pressed: A
+Key Pressed: I
+Key Pressed: [SPACE]
+Key Pressed: B
+Key Pressed: R
+Key Pressed: O
