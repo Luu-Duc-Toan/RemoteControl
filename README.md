@@ -4,15 +4,14 @@ Remote Utilities is a powerful and user-friendly remote desktop software that al
 # Table of Contents
 1. [Installation](#installation)
 2. [Feature](#feature)
-3. [Libraries](#libraries)
-4. [Authors](#authors)
+3. [Authors](#authors)
 
 # Installation
 - If you dont have **Visual Studio** yet, download [here](https://visualstudio.microsoft.com/downloads/)
-- Download zip (as below image)
-![download](./Images/download.jpg)
-- Extract zip -> Extract the libraries at path: `RemoteUtilities\Source\libs.zip`
+- Clone repostity
+- Extract zip -> Extract the libraries at path: `RemoteControl\System\libs.zip`
 ![libraries](./Images/libs.jpg)
+!!! Ensure the folder RemoteControl\System\libs\libs has 4 folder of libraries
 
 # Feature
 - Socket: connect server - client
